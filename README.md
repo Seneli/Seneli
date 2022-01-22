@@ -1,4 +1,4 @@
-## Hi there 👋 My name's Seneli and welcome to my Github 🐼
+## Hello hellooo 👋 My name's Seneli and welcome to my Github 🐼
 
 I'm currently a student at Carleton University and in my free time I love to play piano 🎹, read📚, volunteer🧑‍🤝‍🧑 and code!
 
