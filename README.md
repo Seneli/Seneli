@@ -7,8 +7,6 @@ This year I want to organize my github, so I'm using this README to keep myself 
 ## 🌿 I’m currently working on:
 
 * 💻 A personal website 
-* ⚙️  My 3rd year project - an automated Covid Rapid Screening system with mask and body temperature detection
-* 🧵 My SYSC 3303 project using concurrency in Java 
 
 ## 🌿 Here are some quick links for how to reach me:
 
