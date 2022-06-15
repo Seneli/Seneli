@@ -7,7 +7,7 @@ This year I want to organize my github, so I'm using this README to keep myself 
 ## 🌿 I’m currently working on:
 
 * 💻 The PTC 2022 Code Competition Website
-* 💻 A personal website 
+* 💻 Refactoring my personal website 
 
 ## 🌿 Here are some quick links for how to reach me:
 
