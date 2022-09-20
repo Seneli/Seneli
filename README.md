@@ -6,8 +6,9 @@ This year I want to organize my github, so I'm using this README to keep myself 
 
 ## 🌿 I’m currently working on:
 
-* 💻 Wrapping up my internship
 * 💻 Refactoring my personal website 
+* 🛡️ A tool that identify vulnerabilities at the design stage - for my capstone project
+* 🚦 An exploration of using segment routing and SDN features for Green Traffic Engineering - [based on this paper](https://ieeexplore.ieee.org/document/9844091)
 
 ## 🌿 Here are some quick links for how to reach me:
 
