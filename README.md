@@ -4,12 +4,13 @@ I'm currently a 4th year at Carleton University and in my free time I love to pl
 
 This year I want to organize my github, so I'm using this README to keep myself accountable.
 
+<!--
 ## 🌿 I’m currently working on:
 
 * 💻 Refactoring my personal website 
-* 🛡️ A tool that identify vulnerabilities at the design stage - for my capstone project
+* 🛡️ Vega - a web based tool that identify vulnerabilities at the design stage - for my capstone project
 * 🚦 An exploration of using segment routing and SDN features for Green Traffic Engineering - [based on this paper](https://ieeexplore.ieee.org/document/9844091)
-
+-->
 ## 🌿 Here are some quick links for how to reach me:
 
 * 🌺 [Linkedin](https://www.linkedin.com/in/seneliseneviratne/)
