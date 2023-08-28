@@ -1,4 +1,4 @@
-## Hello helloo 🌺 My name's Seneli and welcome to my Github 🐼
+## Hello hello 🌺 My name's Seneli and welcome to my Github 🐼
 
 I'm a 4th year at Carleton University!
 <!--
