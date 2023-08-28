@@ -1,6 +1,6 @@
 ## Hello helloo 🌺 My name's Seneli and welcome to my Github 🐼
 
-I'm a 4th year at Carleton University and in my free time I love to play piano 🎹, read fantasy 📚, watch anime 🦊 and learn about software 💻!
+I'm a 4th year at Carleton University!
 <!--
 This year I want to organize my github, so I'm using this README to keep myself accountable.
 
